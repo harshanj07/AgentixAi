@@ -1,3 +1,4 @@
 {
-  "fluid": true
+  "fluid": true,
+  "nodeVersion": "20.x"
 }
